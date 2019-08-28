@@ -37,10 +37,10 @@ server:
   
 ---
 spring:
-  profiles: order3
+  profiles: order2
   
 server:
-  port: 8203    
+  port: 8202   
       
       
       
